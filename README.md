@@ -1,4 +1,5 @@
-# Christ Covenant Church A/V Training App
+# Christ Covenant Church Worship Planning & AV App
+*Needs better name gee whiz*
 
 ### Phase 1
 **Tech stack:** None; Static HTML, CSS & JS (use jQuery for easy api calls to Air Table  
